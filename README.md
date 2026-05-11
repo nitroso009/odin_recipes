@@ -1,1 +1,1 @@
-# odin_recipes
+The current project that I am working upon is The Odin Project. When I am finished with this project I must have known to build a complete website from scratch . How to setup and maintain the backend of any website and earn money using this skill as soon as possible.
